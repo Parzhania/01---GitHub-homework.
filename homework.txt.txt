@@ -24,3 +24,5 @@ git push -u origin main
 Wybieramy autentykacja przez przgladarkę
 logujemy się i pozwalamy na dostęp.
 
+ewentualnie uruchamiamy 
+vscode i zatwierdzamy zmiany w narzędziu
