@@ -1,0 +1,23 @@
+1. 5 - Using a private repository without explanation how to push a commit to it
+aby utworzyc repozytorium lokalne trzeba uzyc komendy
+git init
+aby spawdzic status repozytorium wpisujemy 
+git status
+aby dodac plik do sledzenia wpisujemy 
+git add git add homework.txt.txt
+aby zatwierdzic zmiany wpisujemy
+git commit -m "praca domowa git"
+aby sprawdzic historie zmian wpisujemu 
+git log
+
+5 - Using a public repository with complete guide
+Klikamy prawy gorny róg - twoje repozytoria
+Klikamy "NEW"
+Wpisujemy nazwe repozytorium np. "01 - GitHub homework."
+i wybieramy "Public"
+klikamy create
+Aby dodać zdalne repozytoriu wpisujemy
+git remote add origin https://github.com/Parzhania/01---GitHub-homework..git
+git branch -M main
+git push -u origin main
+
