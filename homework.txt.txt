@@ -21,3 +21,6 @@ git remote add origin https://github.com/Parzhania/01---GitHub-homework..git
 git branch -M main
 git push -u origin main
 
+Wybieramy autentykacja przez przgladarkę
+logujemy się i pozwalamy na dostęp.
+
